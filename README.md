@@ -1,0 +1,2 @@
+#inicializar 
+node install
